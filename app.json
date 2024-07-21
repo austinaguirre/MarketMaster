@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MarketMaster",
-    "slug": "MarketMaster",
+    "slug": "marketmaster",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0dde4a57-143b-41df-a4e8-7e411fc5ca1b"
+      }
+    },
+    "owner": "austinaguirre"
   }
 }
